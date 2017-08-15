@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  overflow-x: hidden;
+  transition: 0.3s all ease;
+  font-family: 'PT Sans', sans-serif; }
+
+.container {
+  max-width: 960px; }
+
+.row {
+  padding: 0; }
+
+h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 48px;
+  font-weight: bold; }
+
+h2 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 28px;
+  text-transform: uppercase;
+  font-weight: bold; }
+
+p, a, li {
+  font-family: 'PT Sans', sans-serif; }
